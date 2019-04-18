@@ -1,6 +1,6 @@
 {
   "name": "use-http-test-deploy",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Tiny utility package for easily creating reusable implementations of React state provider patterns.",
   "main": "dist/main.js",
   "scripts": {
